@@ -12,11 +12,20 @@ Happy Coding! 💻✨
 
 ## How to Use
 
-Each day, a new Python programming question will be posted. The structure of the questions and solutions will follow this format:
+Each day, a new Python programming question will be posted. The structure of the questions and solutions will follow this format (I've taken an example here):
 
 ```python
-# Question Description (it will be in comments)
+# QUESTION DESCRIPTION (The Question Description will be in comments
+"""
+Write a Python program that takes two numbers as input and prints their sum.
+"""
 
-# Solution (this won't be in comments)
+# SOLUTION (It won't be in comments)
+def add_numbers(a, b):
+    return a + b
 
-# Output: 15 (it will be in comments)
+# OUTPUT
+# num1 = 5
+# num2 = 10
+# print(add_numbers(num1, num2))
+# 15
