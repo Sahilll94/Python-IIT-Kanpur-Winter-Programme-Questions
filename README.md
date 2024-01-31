@@ -15,10 +15,8 @@ Happy Coding! 💻✨
 Each day, a new Python programming question will be posted. The structure of the questions and solutions will follow this format:
 
 ```python
-# Question Description
+# Question Description (it will be in comments)
 
-# Solution
-def add_numbers(a, b):
-    return a + b
+# Solution (this won't be in comments)
 
-# Output: 15
+# Output: 15 (it will be in comments)
