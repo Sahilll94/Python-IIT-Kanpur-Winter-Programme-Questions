@@ -24,7 +24,7 @@ Write a Python program that takes two numbers as input and prints their sum.
 def add_numbers(a, b):
     return a + b
 
-# OUTPUT
+# OUTPUT (It will be in comments)
 # num1 = 5
 # num2 = 10
 # print(add_numbers(num1, num2))
