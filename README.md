@@ -32,13 +32,7 @@ def add_numbers(a, b):
 ```
 ## Certification Verification
 
-You can verify my certification through blockchain technology [here](https://verify.ifacet.digitalcredentials.in/c915ffc4-3bd2-4e4e-b89d-ef4885e27baa)
-
-![Certificate PDF](IITK_Certification.pdf)
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1gF5fY0fiWQC4J63lirg7Te6deW7ean1C/view?usp=sharing&embedded=true" style="width:100%; height:700px;" frameborder="0"></iframe>
-
-
-
+You can verify and view my certification through blockchain technology by clicking [here](https://verify.ifacet.digitalcredentials.in/c915ffc4-3bd2-4e4e-b89d-ef4885e27baa)
 Let's dive into the world of Python programming and enhance our skills together!
 
 ---
