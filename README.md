@@ -33,6 +33,7 @@ def add_numbers(a, b):
 ## Certification Verification
 
 You can verify and view my certification through blockchain technology by clicking [here](https://verify.ifacet.digitalcredentials.in/c915ffc4-3bd2-4e4e-b89d-ef4885e27baa)
+
 Let's dive into the world of Python programming and enhance our skills together!
 
 ---
