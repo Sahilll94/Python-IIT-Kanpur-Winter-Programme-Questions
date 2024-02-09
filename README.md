@@ -34,7 +34,7 @@ def add_numbers(a, b):
 
 You can verify my certification through blockchain technology [here](https://verify.ifacet.digitalcredentials.in/c915ffc4-3bd2-4e4e-b89d-ef4885e27baa)
 
-![Certificate PDF](IITK%20Certification.pdf)
+![Certificate PDF](IITKCertification.pdf)
 
 
 Let's dive into the world of Python programming and enhance our skills together!
