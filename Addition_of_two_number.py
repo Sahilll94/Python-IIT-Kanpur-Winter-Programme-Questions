@@ -1,9 +1,9 @@
-#AIM
+# QUESTION DESCRIPTION
 """
 Write a Python program to Addition of Two Number.
 """
 
-#PROGRAM
+# SOLUTION
 a=int(input("Enter the first number: "))
 b=int(input("Enter the second number: "))
 c=a+b
