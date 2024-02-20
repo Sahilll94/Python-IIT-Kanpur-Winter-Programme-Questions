@@ -15,16 +15,16 @@ Happy Coding! 💻✨
 Each day, a new Python programming question will be posted. The structure of the questions and solutions will follow this format (I've taken an example here):
 
 ```python
-# QUESTION DESCRIPTION (The Question Description will be in comments
+# AIM (The Question Description will be in comments
 """
 Write a Python program that takes two numbers as input and prints their sum.
 """
 
-# SOLUTION (It won't be in comments)
+# PROGRAM (It won't be in comments)
 def add_numbers(a, b):
     return a + b
 
-# OUTPUT (It will be in comments)
+# INPUT & OUTPUT (It will be in comments)
 # num1 = 5
 # num2 = 10
 # print(add_numbers(num1, num2))
