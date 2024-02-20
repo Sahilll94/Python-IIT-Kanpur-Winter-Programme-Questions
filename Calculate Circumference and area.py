@@ -1,9 +1,9 @@
-#AIM
+#QUESTION DESCRIPTION
 """
 Write a python program to enter radius of a circle and find its diameter, circumference and area.
 """
 
-#PROGRAM
+#SOLUTION
 a=float(input("Enter the Radius of the circle: "))
 pi= 3.141592653589793
 b=2*a
