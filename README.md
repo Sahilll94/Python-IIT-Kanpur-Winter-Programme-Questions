@@ -38,7 +38,7 @@ Let's dive into the world of Python programming and enhance our skills together!
 
 
 # Contribution
-# Feel free to contribute your solutions to this repository and help others in their learning journey!
+Feel free to contribute your solutions to this repository and help others in their learning journey!
 
 
 # FUTURE UPDATES
